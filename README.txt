@@ -1,1 +1,1 @@
-file readme
+файл изменен в ветке new_branch
